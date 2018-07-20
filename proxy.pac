@@ -203,6 +203,7 @@ var white_domains = {"am":{
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"acgvideo":1,
 "0-6":1,
 "0001688":1,
 "001cndc":1,
