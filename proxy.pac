@@ -3015,6 +3015,7 @@ var white_domains = {"am":{
 "dospy":1,
 "dostor":1,
 "douban":1,
+"doubanio":1,
 "douguo":1,
 "douluodalu123":1,
 "douxie":1,
@@ -9605,6 +9606,8 @@ var white_domains = {"am":{
 "pangu":1
 },"ws":{
 "0798":1
+},"xyz":{
+"uchuhimo":1
 },"xn--fiqs8s":{
 "":1
 }
